@@ -2,4 +2,4 @@ Gitの練習をしてきます。
 基本的なワークフローを学びます。
 get add
 get commit
-get status
+get rm
