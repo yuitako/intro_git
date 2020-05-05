@@ -1,5 +1,6 @@
 Gitの練習をしてきます。
 基本的なワークフローを学びます。
-get add
-get commit
-get rm
+git add
+git commit
+git rm
+git status
